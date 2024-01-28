@@ -1,0 +1,11 @@
+deal_id,deal_name,deal_owner,amount,close_date,stage,customer_email
+1,Acme Inc - Widget Purchase,John Doe,5000.00,2022-02-15,Closed-Won,john.doe@example.com
+2,XYZ Corp - Service Agreement,Jane Smith,7500.00,2022-02-20,Negotiation,jane.smith@example.com
+3,ABC Ltd - Software License,Bob Johnson,12000.00,2022-02-25,Qualification,bob.johnson@example.com
+4,Widgets R Us - Bulk Order,Susan Williams,10000.00,2022-03-01,Prospecting,emily.white@example.com
+5,Tech Solutions - IT Consulting,David Brown,8000.00,2022-03-05,Qualification,michael.brown@example.com
+6,Global Innovations - Partnership,Emily Taylor,15000.00,2022-03-10,Prospecting,doe22@example.com
+7,NewCo - Product Launch,Michael Anderson,20000.00,2022-03-15,Negotiation,doe23@example.com
+8,Infinite Technologies - Renewal,Lisa Garcia,6000.00,2022-03-20,Closed-Lost,doe24@example.com
+9,Data Solutions - Analytics Package,Kevin White,9000.00,2022-03-25,Qualification,doe25@example.com
+10,ABC Marketing - Campaign Deal,Sarah Miller,3000.00,2022-03-30,Prospecting,doe26@example.com

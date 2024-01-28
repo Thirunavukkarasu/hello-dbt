@@ -1,0 +1,6 @@
+order_id,customer_name,customer_email,product_name,quantity,unit_price,total_amount,order_date
+1,John Doe,john.doe@example.com,Widget A,3,45.20,135.60,2022-03-10
+2,Jane Smith,jane.smith@example.com,Widget B,5,32.50,162.50,2022-03-12
+3,Bob Johnson,bob.johnson@example.com,Widget C,2,75.80,151.60,2022-03-15
+4,Emily White,emily.white@example.com,Widget D,1,98.60,98.60,2022-03-18
+5,Michael Brown,michael.brown@example.com,Widget E,4,54.75,219.00,2022-03-20
